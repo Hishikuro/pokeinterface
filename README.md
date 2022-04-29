@@ -1,2 +1,3 @@
 # pokeinterface
-un interface graphique qui affiche des donnée sur un pokemon en anglais 
+je crée un programme python qui affiche un  interface graphique et 
+qui affiche un  Pokémon est c'est donné qui vient de  l'API pokeapi   
